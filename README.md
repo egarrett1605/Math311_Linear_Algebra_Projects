@@ -11,3 +11,10 @@ https://colab.research.google.com/drive/1n0WLQbN4nFwADUgiYZ-IIXHL_7UruMN7#scroll
 
 2. The Ski Hill Example: Modeling future behavior using matrices:
 https://colab.research.google.com/drive/1fwgccNvuNbGcKMPN_geGs5kwtDd4Z8AP#scrollTo=IGdmi9ANz9B3
+
+3. Secret Number: Decoding a secret polynomial from data points using linear algebra:
+https://colab.research.google.com/drive/17chzef7EgEH12ETdcMkLIibfhVqvbUiM#scrollTo=ZEjNcqQvQbYo
+
+4. Sports Teams Rankings: Using game data to rank the strength of teams using linear algebra:
+https://colab.research.google.com/drive/1n8naUgPuaOzyjhDMG44Vhxap_IROkc9B#scrollTo=UkDKmNba6YHi
+
